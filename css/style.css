@@ -166,13 +166,13 @@ line-height: 1.8;text-align: center;}
     -o-border-radius: 10px;
     color: white;
     height: 75px;
-    width: 300px;
+    width: 100%;
     font-size: 30px;
     text-align: center;
         margin-bottom: 40px;
     
 }
-.sign {
+.landing .sign {
     font-size: 25px;
     font-weight: 800;
     color: white;
