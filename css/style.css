@@ -169,13 +169,14 @@ line-height: 1.8;text-align: center;}
     width: 300px;
     font-size: 30px;
     text-align: center;
-        margin-bottom: 20px;
+        margin-bottom: 40px;
     
 }
 .sign {
     font-size: 25px;
     font-weight: 800;
     color: white;
+    text-align:center;
   }
   .sign span {font-family: 'Dancing Script', cursive;
 }
